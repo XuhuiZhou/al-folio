@@ -2,7 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-name: Xuhui Zhou 
+title: blank # the website title (if blank, full name will be used instead)
+first_name: Xuhui
+middle_name: 
+last_name: Zhou
 email: xuhuizh@uw.com 
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -35,10 +38,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: XuhuiZhou
 twitter_username: nlpxuhui 
 linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: CKyX_Y8AAAAJ&hl # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
