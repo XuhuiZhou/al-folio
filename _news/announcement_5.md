@@ -5,4 +5,4 @@ inline: true
 ---
 
 Accept two intern offers from Apple! One happens at the Siri
-Info Intel team for the spring quarter, another happens at the Machine Translation team for the summer quarter. Thanks all the people for making this happen! Nice to meet you, Apple :)
+Info Intel team for the spring quarter, another happens at the Machine Translation team for the summer quarter. Nice to meet you, Apple :)
